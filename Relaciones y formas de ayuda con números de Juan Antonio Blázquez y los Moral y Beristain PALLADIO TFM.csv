@@ -1,0 +1,56 @@
+﻿Persona que ayuda;Persona que recibe ayuda;Relación;Formas de ayuda
+Francisco Velad;Juan Antonio Blázquez;1;1
+Francisco Velad;Domingo del Moral y Beristain;1;1
+Francisco Velad;Juan del Moral y Beristain;1;1
+Francisco Velad;Andrés del Moral y Beristain;1;1
+Francisco Velad;Joaquín del Moral y Beristain;1;1
+Capitán de la valandra;Juan Antonio Blázquez;2;1
+Santiago de Herrera;Juan Antonio Blázquez;2;1
+José Díaz de Guitian;Juan Antonio Blázquez;1;1
+Juan de Zanzena;Juan Antonio Blázquez;2;1
+Lorenzo Careu;Domingo del Moral y Beristain;1;1
+José Díaz de Guitian;Domingo del Moral y Beristain;1;1
+Francisco de Obregón;Juan Antonio Torremocha Granhero;2;1
+Pedro Ortiz de Letona;Isidro Marín Bullón;3;1
+Joaquín del Moral y Beristain;Juan Antonio Blázquez;4;2
+Juan Antonio Blázquez;Domingo del Moral y Beristain;4;2
+Domingo del Moral y Beristain;Juan Antonio Blázquez;4;2
+Juan del Moral y Beristain;Juan Antonio Blázquez;4;2
+Joaquín del Moral y Beristain;María Justa Blázquez;4;2
+Juan del Moral y Beristain;María Justa Blázquez;4;2
+Domingo del Moral y Beristain;María Justa Blázquez;4;2
+Andrés del Moral y Beristain;María Justa Blázquez;4;2
+Manuela Castellanos;Juan Antonio Blázquez;5;2
+María Beristain;Juan Antonio Blázquez;4;2
+José Ruiz de León;Juan Antonio Blázquez;5;2
+Domingo del Moral y Beristain;Juan Antonio Blázquez;4;3
+Domingo del Moral y Beristain;Juan Antonio Blázquez;4;4
+Domingo del Moral y Beristain;Juan Antonio Blázquez;4;5
+fray Bartolomé Valentín;Juan Antonio Blázquez;5;6
+José Díaz de Guitian;Domingo del Moral y Beristain;1;7
+Francisco Velad;Domingo del Moral y Beristain;1;7
+Francisco Velad;Joaquín del Moral y Beristain;1;7
+Francisco Velad;Juan del Moral y Beristain;1;7
+Francisco Maldonado;José Ruiz de León;5;7
+Lorenzo Careu;Domingo del Moral y Beristain;1;7
+Perdro Sáez de Santa María;Isidro Marín Bullón;6;7
+Gaspar Sáez Rico;Isidro Marín Bullón;6;7
+Domingo del Moral y Beristain;Juan Antonio Blázquez;4;8
+José Díaz de Guitian;Juan Antonio Blázquez;1;9
+Nicolás Fernández del Castillo;Juan Antonio Blázquez;1;9
+Sánchez y Cueto;Juan Antonio Blázquez;1;9
+Lorenzo Careu;Juan Antonio Blázquez;1;9
+Domingo del Moral y Beristain;Juan Antonio Blázquez;4;10
+Andrés del Moral y Beristain;Juan Antonio Blázquez;4;10
+Andrés del Moral y Beristain;Isidro Marín Bullón;4;11
+Domingo del Moral y Beristain;Isidro Marín Bullón;4;11
+Jerónimo Díaz;Juan Antonio Blázquez;5;11
+Isidro Marín Bullón;Juan Antonio Blázquez;4;12
+Domingo del Moral y Beristain;Juan Antonio Blázquez;4;13
+Joaquín del Moral y Beristain;Juan Antonio Blázquez;4;13
+Andrés del Moral y Beristain;Juan Antonio Blázquez;4;13
+Juan del Moral y Beristain;Juan Antonio Blázquez;4;13
+Juan Antonio Blázquez;Juan del Moral y Beristain;4;14
+Juan Valentín de Villanueva;Domingo del Moral y Beristain;2;14
+Juan Antonio Blázquez;Domingo del Moral y Beristain;4;14
+Juan Antonio Torremocha Granhero;Domingo del Moral y Beristain;2;15
